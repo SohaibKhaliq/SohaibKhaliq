@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohaibkhaliq" alt="sohaibkhaliq" /></a> </p>
 
-- 🔭 I’m currently working on [Querytower](https://github.com/SohaibKhaliq/QueryTower)
+- 🔭 I’m currently working on [Gujrat Institute of Management Sciences Website](https://gim.edu.pk)
 
-- 🌱 I’m currently learning **NodeJS, Express**
+- 🌱 I’m currently learning **Python, Pytorch**
 
 - 👯 I’m looking to collaborate on [Style and Schedule](https://github.com/SohaibKhaliq/Style-and-Schedule)
 
