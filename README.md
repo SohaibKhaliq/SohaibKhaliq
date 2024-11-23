@@ -26,7 +26,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohaibkhaliq&show_icons=true&locale=en" alt="sohaibkhaliq" /></p>
 
-<a href="https://app.daily.dev/sohaibkhaliq"><img src="https://api.daily.dev/devcards/v2/OlS8PjuHYMXlxPPnk41NQ.png?r=ec1&type=wide" width="652" alt="Sohaib Khaliq's Dev Card"/></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SohaibKhaliq)](https://git.io/streak-stats)
+
 [![SohaibKhaliq's GitHub | Languages Over Time](https://stats.quine.sh/SohaibKhaliq/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SohaibKhaliq)
 
 [![SohaibKhaliq's GitHub | Topics Over Time](https://stats.quine.sh/SohaibKhaliq/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SohaibKhaliq)
