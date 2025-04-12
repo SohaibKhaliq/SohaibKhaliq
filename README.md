@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohaibkhaliq" alt="sohaibkhaliq" /></a> </p>
 
-- 🔭 I’m currently working on [Gujrat Institute of Management Sciences Website](https://gim.edu.pk)
+- 🔭 I’m currently working on Building AI Startup [ZentaCode](https://zentacode.com)
 
 - 🌱 I’m currently learning **Python, Pytorch**
 
@@ -28,6 +28,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SohaibKhaliq)](https://git.io/streak-stats)
 
-[![SohaibKhaliq's GitHub | Languages Over Time](https://stats.quine.sh/SohaibKhaliq/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SohaibKhaliq)
 
-[![SohaibKhaliq's GitHub | Topics Over Time](https://stats.quine.sh/SohaibKhaliq/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SohaibKhaliq)
