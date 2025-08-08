@@ -26,6 +26,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohaibkhaliq&show_icons=true&locale=en" alt="sohaibkhaliq" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SohaibKhaliq)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=SohaibKhaliq&exclude_days=Sun)](https://git.io/streak-stats)
 
