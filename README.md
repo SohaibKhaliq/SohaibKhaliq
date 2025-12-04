@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sohaib Khaliq</h1>
 <h3 align="center">A passionate full stack developer from Pakistan!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohaibkhaliq" alt="sohaibkhaliq" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohaibkhaliq" alt="sohaibkhaliq" /></a> 
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SohaibKhaliq&theme=react-dark&hide_border=true" width="100%">
+</p>
 
 - 🔭 I’m currently working on Building AI Startup [ZentaCode](https://zentacode.com)
 
