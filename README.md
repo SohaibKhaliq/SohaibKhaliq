@@ -30,8 +30,8 @@
 
 <p align="center">
   <img src="https://wakatime.com/share/@2489c45d-c40f-4e2b-9c92-14e5f6e377fc/7fba6bb3-e35e-4e47-8e47-b4f7e89bb232.svg" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=SohaibKhaliq&show_icons=true&theme=tokyonight" width="420"/>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=SohaibKhaliq&exclude_days=Sun)](https://git.io/streak-stats)
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SohaibKhaliq&exclude_days=Sun)](https://git.io/streak-stats)
+
 
