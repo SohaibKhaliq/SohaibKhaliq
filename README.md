@@ -72,7 +72,7 @@
 - **[ZentaCode](https://zentacode.com)** - Building an AI Startup.
 - **[Style and Schedule](https://github.com/SohaibKhaliq/Style-and-Schedule)** - *Collaborating*
 - **[Al-Razi Cloud Code Editor](https://github.com/SohaibKhaliq/Testy)** - A cloud-based code editor.
-- **Find all my projects at:** [https://studily.me/chohanorganicfood/](https://studily.me/chohanorganicfood/)
+- **Find all my projects at:** [ZentaCode](https://zentacode.com)
 
 <br />
 
