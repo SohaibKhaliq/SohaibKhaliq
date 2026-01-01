@@ -51,10 +51,10 @@
   <br/>
   
   <a href="https://github.com/SohaibKhaliq">
-    <img src="https://github-readme-stats.vercel.app/api?username=SohaibKhaliq&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true&count_private=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=SohaibKhaliq&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true" width="48%" />
   </a>
   <a href="https://github.com/SohaibKhaliq">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SohaibKhaliq&theme=dark" width="48%" />
+    <img src="https://streak-stats.demolab.com?user=SohaibKhaliq&theme=dark" width="48%" />
   </a>
   <br/>
   <br/>
@@ -73,6 +73,32 @@
 - **[Style and Schedule](https://github.com/SohaibKhaliq/Style-and-Schedule)** - *Collaborating*
 - **[Al-Razi Cloud Code Editor](https://github.com/SohaibKhaliq/Testy)** - A cloud-based code editor.
 - **Find all my projects at:** [ZentaCode](https://zentacode.com)
+
+<br />
+
+### 🤝 Support Me
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/sohaibkhaliq">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+</div>
+
+<br />
+
+### 📫 Let's Connect
+
+<div align="center">
+  <a href="mailto:sohaibkhaliq510@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/sohaib-khaliq">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/iamsohaibkhaliq">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
 
 <br />
 
