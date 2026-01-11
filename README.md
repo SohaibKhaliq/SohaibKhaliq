@@ -50,9 +50,7 @@
 <div align="center">
   <br/>
   
-  <a href="https://github.com/SohaibKhaliq">
-    <img src="https://github-readme-stats.vercel.app/api?username=SohaibKhaliq&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true&count_private=true" width="48%" />
-  </a>
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/SohaibKhaliq?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
   <a href="https://github.com/SohaibKhaliq">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SohaibKhaliq&theme=dark" width="48%" />
   </a>
