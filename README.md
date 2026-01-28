@@ -20,7 +20,7 @@
 <div align="center">
   <h3>Hi there 👋, I'm <a href="https://github.com/SohaibKhaliq">Sohaib Khaliq</a>!</h3>
   <p>
-    I'm a passionate <b>Full Stack Developer</b> from <b>Pakistan</b>. I love building scalable applications and exploring the frontiers of Artificial Intelligence. currently building <b><a href="https://zentacode.com">ZentaCode</a></b>.
+      I'm a passionate <b>Full Stack Developer</b> from <b>Pakistan</b>. I love building scalable applications and exploring the frontiers of Artificial Intelligence.
   </p>
 </div>
 
@@ -51,28 +51,12 @@
   <br/>
   
   [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/SohaibKhaliq?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
-  <a href="https://github.com/SohaibKhaliq">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SohaibKhaliq&theme=dark" width="48%" />
-  </a>
-  <br/>
-  <br/>
   
   <a href="https://github.com/SohaibKhaliq">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohaibKhaliq&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true" width="60%" />
   </a>
 
 </div>
-
-<br />
-
-### 💡 Current Works & Projects
-
-- **[ZentaCode](https://zentacode.com)** - Building an AI Startup.
-- **[Style and Schedule](https://github.com/SohaibKhaliq/Style-and-Schedule)** - *Collaborating*
-- **[Al-Razi Cloud Code Editor](https://github.com/SohaibKhaliq/Testy)** - A cloud-based code editor.
-- **Find all my projects at:** [ZentaCode](https://zentacode.com)
-
-<br />
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
